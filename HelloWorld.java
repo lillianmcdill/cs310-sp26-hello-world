@@ -20,5 +20,8 @@ public class HelloWorld {
     public void f3() {
     System.out.println("Hotfixed feature f3");
     }
+    public void f4() {
+    System.out.println("Feature f4");
+    }
 
 }
