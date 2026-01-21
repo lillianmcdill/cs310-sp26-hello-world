@@ -18,7 +18,7 @@ public class HelloWorld {
     System.out.println("Feature f2");
     }
     public void f3() {
-    System.out.println("Feature f3");
+    System.out.println("Hotfixed feature f3");
     }
 
 }
